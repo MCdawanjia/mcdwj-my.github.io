@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>items</key>  
+    <array>  
+        <dict>  
+            <key>assets</key>  
+            <array>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>software-package</string>  
+                    <key>url</key>  
+                    <string>https://mcdawanjia.top/apple/cydia_1.1.36_iphoneos-arm_signed.ipa</string>  
+                </dict>  
+            </array>  
+            <key>metadata</key>  
+            <dict>  
+                <key>bundle-identifier</key>  
+                <string>Cydia</string>  
+                <key>bundle-version</key>  
+                <string>1.1.36</string>  
+                <key>kind</key>  
+                <string>software</string>  
+                <key>title</key>  
+                <string>Cydia_Hacked_MCdawanjia</string>  
+            </dict>  
+        </dict>  
+    </array>  
+</dict>  
+</plist>
